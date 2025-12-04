@@ -1,0 +1,23 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+build/
+
+# IDE files
+.vscode/
+*.suo
+*.user
+*.sln
+*.vcxproj*
+
+# Data files (optional - uncomment if you don't want to track inventory)
+# inventory.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
