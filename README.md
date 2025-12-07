@@ -72,7 +72,7 @@ SmallBiz is a feature-rich inventory management system designed for small retail
 ### Linux/macOS
 
 ```bash
-git clone https://github.com/yourusername/SmallBizInventory.git
+git clone https://github.com/ethantrent/SmallBizInventory.git
 cd SmallBizInventory
 make
 ./SmallBiz
