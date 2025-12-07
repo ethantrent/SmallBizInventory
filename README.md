@@ -18,7 +18,7 @@ SmallBiz is a feature-rich inventory management system designed for small retail
 
 ## Demo Video
 
-[📹 Watch Demo Video](YOUR_YOUTUBE_LINK_HERE)
+[📹 Watch Demo Video](https://www.loom.com/share/1347ef145ebf467097e0d55ba0672d3d)
 
 *A 4-5 minute walkthrough demonstrating program features and explaining key code concepts.*
 
@@ -72,7 +72,7 @@ SmallBiz is a feature-rich inventory management system designed for small retail
 ### Linux/macOS
 
 ```bash
-git clone https://github.com/ethantrent/SmallBizInventory.git
+git clone https://github.com/yourusername/SmallBizInventory.git
 cd SmallBizInventory
 make
 ./SmallBiz
