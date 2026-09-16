@@ -1,10 +1,10 @@
 # SmallBiz Inventory Management System
 
-A console-based inventory management application for small businesses, developed in C++ demonstrating object-oriented programming principles, STL containers, file I/O, and dynamic memory management.
+A C++ coursework project exploring console-based inventory management and demonstrating object-oriented programming principles, STL containers, file I/O, and dynamic memory management.
 
 ## Overview
 
-SmallBiz is a feature-rich inventory management system designed for small retail businesses. It allows users to track products with detailed information including SKU, name, quantity, price, and category. The system supports two product types (Physical and Digital) with specialized attributes, demonstrating C++ inheritance and polymorphism.
+SmallBiz models an inventory workflow for a small retail business. It is an educational application, with no real-business deployment or usage claimed here. It allows users to track products with detailed information including SKU, name, quantity, price, and category. The system supports two product types (Physical and Digital) with specialized attributes, demonstrating C++ inheritance and polymorphism.
 
 ### Features
 
@@ -47,7 +47,7 @@ SmallBiz is a feature-rich inventory management system designed for small retail
 1. Install [MinGW-w64](https://www.mingw-w64.org/) and add to PATH
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/SmallBizInventory.git
+   git clone https://github.com/ethantrent/SmallBizInventory.git
    cd SmallBizInventory
    ```
 3. Compile using the Makefile or manually:
@@ -72,7 +72,7 @@ SmallBiz is a feature-rich inventory management system designed for small retail
 ### Linux/macOS
 
 ```bash
-git clone https://github.com/yourusername/SmallBizInventory.git
+git clone https://github.com/ethantrent/SmallBizInventory.git
 cd SmallBizInventory
 make
 ./SmallBiz
@@ -150,7 +150,7 @@ Total Products: 2 | Total Value: $16498.50
 ## Code Structure
 
 ```
-SmallBiz/
+SmallBizInventory/
 ├── src/
 │   ├── main.cpp              # Entry point and CLI interface
 │   ├── Product.h             # Abstract base class header
@@ -165,7 +165,7 @@ SmallBiz/
 ├── README.md                 # This file
 ├── inventory.csv             # Data persistence file (auto-generated)
 ├── ModulePlan.md            # Project planning document
-└── PRD.md                   # Product requirements document
+└── ModuleReport.md         # Project report
 ```
 
 ## Design Decisions
